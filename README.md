@@ -1,6 +1,6 @@
 # Text-Generation-Natural-Language-Processing
 
-This project was done to work on GPT 2 model for text generation. I created a dataset from shakespeares work of over a million tokens to train a model for text generation. the code was influenced by several online sources and was able to generate the following text:
+This project was done to work on GPT 2 model for text generation. I created a dataset from shakespeares work of over a million tokens to train a model for text generation. the code was influenced by several online sources and was able to generate the following text in the shakespearean language:
 
 0: The man who devil calls my name has been made acquainted with my
 spirits. I am one. -Wilt thou not know? He is so bold as to go way?
